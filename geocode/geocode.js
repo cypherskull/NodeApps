@@ -24,6 +24,6 @@ request({
 		});
 	}
 });
-};
+};   
 
 module.exports.geocodeAddress = geocodeAddress;
